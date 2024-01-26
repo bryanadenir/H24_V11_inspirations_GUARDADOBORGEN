@@ -1,5 +1,5 @@
 # Bryan Adenr Guardado Borgen
-![photo](photo.jpg)
+![photo](image.jpg)
 Photo de moi
 
 ## **Intérets dans le Multimédia**
