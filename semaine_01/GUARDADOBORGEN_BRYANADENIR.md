@@ -1,4 +1,4 @@
-# Bryan Adenr Guardado Borgen
+# Bryan Adenir Guardado Borgen
 ![photo](image.jpg)
 Photo de moi
 
