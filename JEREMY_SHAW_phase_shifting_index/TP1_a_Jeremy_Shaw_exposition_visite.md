@@ -1,4 +1,4 @@
-**Jeremy Shaw**
+# Jeremy Shaw
 
 *Phase Shifting Index*
 
@@ -15,3 +15,20 @@ C'est une grande expérience, de style psychédélique, où tu peux voir des vid
 ![photo](sortie_2.png)
 
 ![photo](sortie_5.png)
+
+Voilà pour la présentation de l'oeuvre
+
+**Mise en Espace**
+
+Croquis
+
+![photo](sortie_3.png)
+
+Salle D'acceuille
+
+![photo]()
+
+Salle d'exposition
+
+![photo](sss)
+
