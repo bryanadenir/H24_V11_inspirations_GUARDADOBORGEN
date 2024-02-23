@@ -38,5 +38,5 @@ La deuxième salle était d'un sol tapissé qui etait agréable à marcher dessu
 
 **ÉLÉMENTS NÉCÉSSAIRES**
 
-![photo]()
+![photo](elements.png)
 
