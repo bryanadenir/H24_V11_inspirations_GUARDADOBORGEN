@@ -40,7 +40,9 @@ La deuxième salle était d'un sol tapissé qui etait agréable à marcher dessu
 
 ![photo](sortie_3.png)
 
+![photo](sortie.png)
 
+![photo](sortie_2.png)
 
 ![photo](elements.png)
 
