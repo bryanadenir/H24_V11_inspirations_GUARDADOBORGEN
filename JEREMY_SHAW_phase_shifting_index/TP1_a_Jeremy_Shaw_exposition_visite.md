@@ -46,3 +46,5 @@ La deuxième salle était d'un sol tapissé qui etait agréable à marcher dessu
 
 ![photo](elements.png)
 
+Pour permettre une experience imersive, il y a plusieurs haut-parleurs et des lumieres qui changent de couleurs accrochés au plafond. L'utilisation de projecteurs est aussi nécéssaire pour permettre la projection des 7 vidéos sur chacun des tableaux vides. Tout ça est contrôlés grâce à un centre de contrôle, qui est caché dans un des bancs qui se trouve à être remplie de fils.
+
