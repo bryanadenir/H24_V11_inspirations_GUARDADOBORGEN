@@ -24,11 +24,11 @@ Croquis
 
 ![photo](sortie_3.png)
 
-Salle D'acceuille
+Salle D'accueil
 
-![photo]()
+![photo](accueil)
 
 Salle d'exposition
 
-![photo](sss)
+![photo](expo)
 
