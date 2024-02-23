@@ -1,1 +1,1 @@
-![photo](media/photoexpo_1)
+![photo](media/photoexpo_1.png)
