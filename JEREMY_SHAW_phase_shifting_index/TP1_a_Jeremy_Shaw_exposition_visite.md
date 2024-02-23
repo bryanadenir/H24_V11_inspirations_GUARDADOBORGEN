@@ -22,7 +22,7 @@ Voilà pour la présentation de l'oeuvre
 
 Croquis
 
-![photo](sortie_3.png)
+![photo](sortie_4.png)
 
 Salle D'accueil
 
@@ -37,6 +37,10 @@ Il y a deux salles, toutes les deux rectangulaires. Pour la première nous devon
 La deuxième salle était d'un sol tapissé qui etait agréable à marcher dessus, comparé au sol de la salle précédente. Dans cell-ci, 7 écrans disposés au milieu de la salle, projectant chacune une vidéo qui semble de différente époque. D'un coter de la salle se trouvait des bancs en "escaliers" recouvert de tapis, donnant une vue plus élever au spectateur.
 
 **ÉLÉMENTS NÉCÉSSAIRES**
+
+![photo](sortie_3.png)
+
+
 
 ![photo](elements.png)
 
